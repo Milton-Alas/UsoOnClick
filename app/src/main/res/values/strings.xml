@@ -9,6 +9,7 @@
     <string name="fecha">fecha</string>
     <string name="contenido">fecha</string>
     <string name="todo">TODO</string>
-    <string name="ocultando_imagen">Ocultando imagen...</string>
+    <string name="ocultando_imagen">Ocultando imagen…</string>
     <string name="ingrese_una_raz_n_del_por_que_se_ocultar_la_imagen">Ingrese una razón del por que se ocultará la imagen</string>
+    <string name="ingrese_una_raz_n_del_por_que_se_ocultara_la_imagen">Ingrese una razón del por que se ocultara la imagen</string>
 </resources>
