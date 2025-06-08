@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">UsoOnClick</string>
+    <string name="desahabilitar_cambiar_modo">Desahabilitar cambiar modo</string>
+    <string name="mostrar_imagen">Mostrar imagen</string>
+    <string name="cambiar_modo">Cambiar modo</string>
+    <string name="ejemplo_de_uso_de_onclick">Ejemplo de uso de OnClick</string>
+    <string name="floating">floating</string>
+    <string name="ocultar_imagen">Ocultar imagen</string>
+    <string name="fecha">fecha</string>
+    <string name="contenido">fecha</string>
+    <string name="todo">TODO</string>
+    <string name="ocultando_imagen">Ocultando imagen...</string>
+    <string name="ingrese_una_raz_n_del_por_que_se_ocultar_la_imagen">Ingrese una razón del por que se ocultará la imagen</string>
 </resources>
